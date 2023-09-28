@@ -99,7 +99,7 @@ GROUP BY customer_name, customer_city
 ORDER BY SUM(profit) DESC
 LIMIT 5;_
 
-#### Tiotal sales for each City
+#### Total sales for each City
 
 ![](Total_sales.png)
 
